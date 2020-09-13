@@ -4,10 +4,24 @@
     margin: 0;
 }
 
+/* Table Of contents
+1. Body Styles
+2. Header, Navigation, Links, Paragraph Styles
+3. Floats
+4. Benefit Blurb Styles
+5. Services Blurbs Styles
+6. Footer Styles
+ */
+
+
+/* 1. Body Styles */
 body {
     background-color: #d9dcd6;
 }
 
+/* End body Styles */
+
+/* 2. Header, Navigation, Links, Paragraph Styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,6 +73,10 @@ p {
     background-position: center;
 }
 
+/* End Header, Navigation ... styles */
+
+/* 3. Floats  */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,11 +87,9 @@ p {
     margin-left: 25px;
 }
 
-.services {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+/* End Floats */
+
+/* 4. Benefit Blurb Styles */
 
 .benefit-blurb {
     margin-right: 20px;
@@ -102,6 +118,14 @@ p {
     max-width: 150px;
 }
 
+/* end Benefit Blurbs */
+
+/* 5. Services Blurb Styles */
+.services {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 .services-blurb {
     margin-bottom: 20px;
@@ -121,6 +145,9 @@ p {
     font-size: 36px;
 }
 
+/* End Services Blurbs */
+
+/* 6. Footer Styles */
 footer {
     padding: 30px;
     clear: both;
@@ -131,3 +158,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* End Footer Styles */

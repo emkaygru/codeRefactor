@@ -41,4 +41,12 @@ You are required to submit the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+## Completed Work 
+
+1. Cleaned up code and added correct semantic tags 
+2. The structure of the semantic tags flows correctly and is easy to read
+3. IMG elements have alt attributes 
+4. Heading attributes have sequential order
+5. Title element reflects the site name
+6. CSS cleaned up and pared down with additional classes to make code easy to read.
